@@ -49,10 +49,10 @@ export const Techstacks = () => {
           </div> 
           <br/>
 
-          {/* <div>
+          <div>
             <SiMaterialui color="#007fff"/>
             <h5>MUI</h5>
-          </div> */}
+          </div>
           
           <div>
             <GrMysql color="#4078c0"/>

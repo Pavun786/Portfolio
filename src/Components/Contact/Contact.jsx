@@ -21,7 +21,7 @@ export const Contact = () => {
             data-aos="fade-right"
           >
             <a
-              href="linkedin.com/in/pavunkumar-e-217886270"
+              href="https://www.linkedin.com/in/pavunkumar-e-217886270/"
               target="_blank"
               rel="noreferrer"
             >

@@ -114,6 +114,7 @@ export const Projects = () => {
                     href="https://visionary-baklava-331970.netlify.app"
                     target="_blank"
                     rel="noreferrer"
+                    style={{textDecoration:"none"}}
                   >
                     <span type="button" className="btns onbt onbt">
                       See this Live
@@ -123,6 +124,7 @@ export const Projects = () => {
                     href="https://github.com/Pavun786/Equipment-Rental-Portal-Frontend.git"
                     target="_blank"
                     rel="noreferrer"
+                    style={{textDecoration:"none"}}
                   >
                     <span type="button" className="btns onbt">
                       View Code
@@ -162,8 +164,9 @@ export const Projects = () => {
                     href="https://react-markdown-viewer-frontend.vercel.app/"
                     target="_blank"
                     rel="noreferrer"
+                    style={{textDecoration:"none"}}
                   >
-                    <span type="button" className="btns onbt onbt">
+                    <span type="button" className="btns onbt onbt" >
                       See this Live
                     </span>
                   </a>
@@ -171,6 +174,7 @@ export const Projects = () => {
                     href="https://github.com/Pavun786/React-Markdown-Viewer-Frontend.git"
                     target="_blank"
                     rel="noreferrer"
+                    style={{textDecoration:"none"}}
                   >
                     <span type="button" className="btns onbt">
                       View Code

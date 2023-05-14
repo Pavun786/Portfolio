@@ -57,7 +57,7 @@ export const About = () => {
             </a>
             
             <a
-              href="linkedin.com/in/pavunkumar-e-217886270"
+              href="https://www.linkedin.com/in/pavunkumar-e-217886270/"
               aria-label="linkedin"
               className="link link--icon"
               target="_blank"
