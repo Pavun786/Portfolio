@@ -13,9 +13,7 @@ export const Header = () => {
         
         <h3>
           <a href="#home" >
-            {/* <span>
-              <img src={Image} data-aos="fade-right" className="naresh-logo" />
-            </span> */}
+           
            
           </a>
         </h3>
